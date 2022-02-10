@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\2.전처리">
+      <UniqueIdentifier>{98acf149-068c-4f72-8ab0-7b40c763d679}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\3.선언">
+      <UniqueIdentifier>{2576584e-0931-44b6-902b-7823632ba013}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\4.표현식">
+      <UniqueIdentifier>{098e9e87-b731-43ca-a93e-e8d00364ac45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\5.정수">
+      <UniqueIdentifier>{a8afd8e6-538f-430d-99b3-a0cf2edc3656}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\6.부동소수점">
+      <UniqueIdentifier>{fca21cdc-cfce-49d3-bb23-a8c1c004b6ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\7.배열">
+      <UniqueIdentifier>{5f8a6688-6658-4f06-8a26-e992cb642af7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\8.문자열">
+      <UniqueIdentifier>{e060c44f-bfb4-427a-9756-41f16ae8964c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\9.메모리">
+      <UniqueIdentifier>{10aeec91-36f2-419a-b891-733558153ac9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\10.파일입출력">
+      <UniqueIdentifier>{868dc86a-acae-4607-8e07-ade8c2cf21c3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="PRE-02.c">
+      <Filter>소스 파일\2.전처리</Filter>
+    </ClCompile>
+    <ClCompile Include="PRE-01.c">
+      <Filter>소스 파일\2.전처리</Filter>
+    </ClCompile>
+    <ClCompile Include="PRE-03.c">
+      <Filter>소스 파일\2.전처리</Filter>
+    </ClCompile>
+    <ClCompile Include="PRE-04.c">
+      <Filter>소스 파일\2.전처리</Filter>
+    </ClCompile>
+    <ClCompile Include="PRE-05.c">
+      <Filter>소스 파일\2.전처리</Filter>
+    </ClCompile>
+    <ClCompile Include="PRE-06.c">
+      <Filter>소스 파일\2.전처리</Filter>
+    </ClCompile>
+    <ClCompile Include="PRE-07.c">
+      <Filter>소스 파일\2.전처리</Filter>
+    </ClCompile>
+    <ClCompile Include="DCL-01.c">
+      <Filter>소스 파일\3.선언</Filter>
+    </ClCompile>
+    <ClCompile Include="DCL-02.c">
+      <Filter>소스 파일\3.선언</Filter>
+    </ClCompile>
+    <ClCompile Include="DCL-03.c">
+      <Filter>소스 파일\3.선언</Filter>
+    </ClCompile>
+    <ClCompile Include="DCL-04.c">
+      <Filter>소스 파일\3.선언</Filter>
+    </ClCompile>
+    <ClCompile Include="DCL-05.c">
+      <Filter>소스 파일\3.선언</Filter>
+    </ClCompile>
+    <ClCompile Include="DCL-06.c">
+      <Filter>소스 파일\3.선언</Filter>
+    </ClCompile>
+    <ClCompile Include="DCL-07.c">
+      <Filter>소스 파일\3.선언</Filter>
+    </ClCompile>
+    <ClCompile Include="DCL-08.c">
+      <Filter>소스 파일\3.선언</Filter>
+    </ClCompile>
+    <ClCompile Include="DCL-09.c">
+      <Filter>소스 파일\3.선언</Filter>
+    </ClCompile>
+    <ClCompile Include="DCL-10.c">
+      <Filter>소스 파일\3.선언</Filter>
+    </ClCompile>
+    <ClCompile Include="DCL-11.c">
+      <Filter>소스 파일\3.선언</Filter>
+    </ClCompile>
+    <ClCompile Include="EXP-01.c">
+      <Filter>소스 파일\4.표현식</Filter>
+    </ClCompile>
+    <ClCompile Include="EXP-02.c">
+      <Filter>소스 파일\4.표현식</Filter>
+    </ClCompile>
+    <ClCompile Include="EXP-03.c">
+      <Filter>소스 파일\4.표현식</Filter>
+    </ClCompile>
+    <ClCompile Include="EXP-04.c">
+      <Filter>소스 파일\4.표현식</Filter>
+    </ClCompile>
+    <ClCompile Include="EXP-05.c">
+      <Filter>소스 파일\4.표현식</Filter>
+    </ClCompile>
+    <ClCompile Include="EXP-06.c">
+      <Filter>소스 파일\4.표현식</Filter>
+    </ClCompile>
+    <ClCompile Include="EXP-07.c">
+      <Filter>소스 파일\4.표현식</Filter>
+    </ClCompile>
+    <ClCompile Include="EXP-08.c">
+      <Filter>소스 파일\4.표현식</Filter>
+    </ClCompile>
+    <ClCompile Include="EXP-09.c">
+      <Filter>소스 파일\4.표현식</Filter>
+    </ClCompile>
+    <ClCompile Include="EXP-10.c">
+      <Filter>소스 파일\4.표현식</Filter>
+    </ClCompile>
+    <ClCompile Include="EXP-11.c">
+      <Filter>소스 파일\4.표현식</Filter>
+    </ClCompile>
+    <ClCompile Include="INT-00.c">
+      <Filter>소스 파일\5.정수</Filter>
+    </ClCompile>
+    <ClCompile Include="INT-01.c">
+      <Filter>소스 파일\5.정수</Filter>
+    </ClCompile>
+    <ClCompile Include="INT-02.c">
+      <Filter>소스 파일\5.정수</Filter>
+    </ClCompile>
+    <ClCompile Include="INT-03.c">
+      <Filter>소스 파일\5.정수</Filter>
+    </ClCompile>
+    <ClCompile Include="INT-04.c">
+      <Filter>소스 파일\5.정수</Filter>
+    </ClCompile>
+    <ClCompile Include="INT-05.c">
+      <Filter>소스 파일\5.정수</Filter>
+    </ClCompile>
+    <ClCompile Include="INT-06.c">
+      <Filter>소스 파일\5.정수</Filter>
+    </ClCompile>
+    <ClCompile Include="INT-07.c">
+      <Filter>소스 파일\5.정수</Filter>
+    </ClCompile>
+    <ClCompile Include="INT-08.c">
+      <Filter>소스 파일\5.정수</Filter>
+    </ClCompile>
+    <ClCompile Include="INT-09.c">
+      <Filter>소스 파일\5.정수</Filter>
+    </ClCompile>
+    <ClCompile Include="INT-10.c">
+      <Filter>소스 파일\5.정수</Filter>
+    </ClCompile>
+    <ClCompile Include="INT-11.c">
+      <Filter>소스 파일\5.정수</Filter>
+    </ClCompile>
+    <ClCompile Include="INT-12.c">
+      <Filter>소스 파일\5.정수</Filter>
+    </ClCompile>
+    <ClCompile Include="FLP-01.c">
+      <Filter>소스 파일\6.부동소수점</Filter>
+    </ClCompile>
+    <ClCompile Include="FLP-02.c">
+      <Filter>소스 파일\6.부동소수점</Filter>
+    </ClCompile>
+    <ClCompile Include="FLP-03.c">
+      <Filter>소스 파일\6.부동소수점</Filter>
+    </ClCompile>
+    <ClCompile Include="FLP-04.c">
+      <Filter>소스 파일\6.부동소수점</Filter>
+    </ClCompile>
+    <ClCompile Include="FLP-05.c">
+      <Filter>소스 파일\6.부동소수점</Filter>
+    </ClCompile>
+    <ClCompile Include="ARR-01.c">
+      <Filter>소스 파일\7.배열</Filter>
+    </ClCompile>
+    <ClCompile Include="ARR-02.c">
+      <Filter>소스 파일\7.배열</Filter>
+    </ClCompile>
+    <ClCompile Include="ARR-03.c">
+      <Filter>소스 파일\7.배열</Filter>
+    </ClCompile>
+    <ClCompile Include="STR-01.c">
+      <Filter>소스 파일\8.문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="STR-02.c">
+      <Filter>소스 파일\8.문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="STR-03.c">
+      <Filter>소스 파일\8.문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="STR-04.c">
+      <Filter>소스 파일\8.문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="MEM-01.c">
+      <Filter>소스 파일\9.메모리</Filter>
+    </ClCompile>
+    <ClCompile Include="MEM-02.c">
+      <Filter>소스 파일\9.메모리</Filter>
+    </ClCompile>
+    <ClCompile Include="MEM-03.c">
+      <Filter>소스 파일\9.메모리</Filter>
+    </ClCompile>
+    <ClCompile Include="MEM-04.c">
+      <Filter>소스 파일\9.메모리</Filter>
+    </ClCompile>
+    <ClCompile Include="MEM-05.c">
+      <Filter>소스 파일\9.메모리</Filter>
+    </ClCompile>
+    <ClCompile Include="MEM-06.c">
+      <Filter>소스 파일\9.메모리</Filter>
+    </ClCompile>
+    <ClCompile Include="MEM-07.c">
+      <Filter>소스 파일\9.메모리</Filter>
+    </ClCompile>
+    <ClCompile Include="FIO-01.c">
+      <Filter>소스 파일\10.파일입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="FIO-02.c">
+      <Filter>소스 파일\10.파일입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="FIO-03.c">
+      <Filter>소스 파일\10.파일입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="FIO-04.c">
+      <Filter>소스 파일\10.파일입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="FIO-05.c">
+      <Filter>소스 파일\10.파일입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="FIO-06.c">
+      <Filter>소스 파일\10.파일입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="FIO-07.c">
+      <Filter>소스 파일\10.파일입출력</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Math.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
